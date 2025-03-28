@@ -6,16 +6,9 @@ This project is an AI-powered chatbot designed to assist users with medical syst
 
 Here is a demo of the Virtual Healthcare Assistant Chatbot in action:
 
-![Demo Video](https://github.com/jothsnapraveena/Health_AIBot/blob/master/AWSAI_chatbot.mp4)
+![Demo Video](https://github.com/jothsnapraveena/Health_AIBot/blob/master/Screenshot%202025-03-28%20022852.png)(https://github.com/jothsnapraveena/Health_AIBot/blob/master/AWSAI_chatbot.mp4)
 
-## Demo Video
 
-Watch the demo of the Virtual Healthcare Assistant Chatbot:
-
-<video width="640" height="480" controls>
-  <source src="https://github.com/jothsnapraveena/Health_AIBot/blob/master/AWSAI_chatbot.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
 
 ## Table of Contents
