@@ -1,4 +1,4 @@
-# Virtual Healthcare Assistant Chatbot
+# Healthcare AI Assistant
 
 This project is an AI-powered chatbot designed to assist users with medical system-related queries, such as insurance, paperwork, and healthcare procedures. It uses AWS Lambda, Amazon Bedrock (Claude Model), Amazon Comprehend, and API Gateway. The bot redacts personally identifiable information (PII) and provides helpful responses to healthcare-related inquiries.
 
