@@ -7,11 +7,8 @@ This project is an AI-powered chatbot designed to assist users with medical syst
 - [Overview](#overview)
 - [Technologies Used](#technologies-used)
 - [Architecture](#architecture)
-- [Setup](#setup)
-- [Usage](#usage)
-- [API Endpoints](#api-endpoints)
-- [Contributing](#contributing)
-- [License](#license)
+- [Usage] (#usage)
+   
 
 ## Overview
 
@@ -43,42 +40,6 @@ The chatbot can handle queries like:
 - **Comprehend**: Used for sentiment analysis and detecting personally identifiable information.
 - **DynamoDB**: Stores the user sessions and messages.
 
-## Setup
-
-1. **Clone the repository**:
-    ```bash
-    git clone https://github.com/your-username/virtual-healthcare-assistant.git
-    cd virtual-healthcare-assistant
-    ```
-
-2. **Set up AWS CLI**:
-    - Install the AWS CLI from the [official documentation](https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2.html).
-    - Configure the CLI with your AWS credentials:
-    ```bash
-    aws configure
-    ```
-
-3. **Deploy the infrastructure**:
-    - Install the AWS CDK if you haven't already:
-    ```bash
-    npm install -g aws-cdk
-    ```
-    - Bootstrap the AWS environment:
-    ```bash
-    cdk bootstrap
-    ```
-    - Deploy the stack:
-    ```bash
-    cdk deploy
-    ```
-
-4. **Start the React frontend**:
-    ```bash
-    cd frontend-react
-    npm start
-    ```
-
-    The frontend should now be available at `http://localhost:5173`.
 
 ## Usage
 
@@ -112,5 +73,5 @@ The chatbot can handle queries like:
         "response": "Bot's answer"
       }
       ```
-![Bot]('Screenshot 2025-03-28 014517.png')
+![Bot](https://github.com/jothsnapraveena/Health_AIBot/blob/master/Screenshot%202025-03-28%20014517.png)
 
