@@ -76,3 +76,13 @@ The chatbot can handle queries like:
       ```
 ![Bot](https://github.com/jothsnapraveena/Health_AIBot/blob/master/Screenshot%202025-03-28%20014517.png)
 
+## Customization
+The chatbot is designed to be customizable for various use cases. You can modify the system message in the Lambda handler to suit your needs, such as updating the role of the assistant or changing the way the assistant responds to specific queries.
+
+You can also adjust the sentiment analysis thresholds to filter out negative content or personalize the interaction experience based on the user input.
+
+## Cleanup
+To delete the AWS resources and avoid any further charges, run the following AWS CLI command:
+
+aws cloudformation delete-stack --stack-name ChatbotStack
+
