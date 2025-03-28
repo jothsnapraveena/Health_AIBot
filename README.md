@@ -7,7 +7,7 @@ This project is an AI-powered chatbot designed to assist users with medical syst
 - [Overview](#overview)
 - [Technologies Used](#technologies-used)
 - [Architecture](#architecture)
-- [Usage] (#usage)
+
    
 
 ## Overview
@@ -32,7 +32,7 @@ The chatbot can handle queries like:
 
 ## Architecture
 
-![Architecture](./assets/architecture-diagram.png)
+![Architecture](https://github.com/jothsnapraveena/Health_AIBot/blob/master/architecture%20diagram.png)
 
 - **API Gateway**: Receives requests from the frontend and triggers the Lambda functions.
 - **Lambda Functions**: Handle different tasks (e.g., sentiment analysis, PII redaction, model interaction).
