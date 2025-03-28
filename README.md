@@ -29,6 +29,7 @@ The chatbot can handle queries like:
 - **API Gateway**: To expose the chatbot's backend as a REST API.
 - **DynamoDB**: For storing chatbot sessions and messages.
 - **AWS IAM**: For handling permissions.
+- **Postman**: Used for testing the chatbot API endpoints locally before deployment.
 
 ## Architecture
 
