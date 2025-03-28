@@ -39,6 +39,7 @@ The chatbot can handle queries like:
 - **DynamoDB**: For storing chatbot sessions and messages.
 - **AWS IAM**: For handling permissions.
 - **Postman**: Used for testing the chatbot API endpoints locally before deployment.
+- **React**:Used for developing the User Interface
 
 ## Architecture
 
